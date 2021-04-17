@@ -16,6 +16,10 @@ Dependency Libraries :
 - pandas
 - numpy
 - NLP
+- streamlit==0.80.0
+-joblib==1.0.1
+
+
 
 Installation Commands :
 If using pip ->
